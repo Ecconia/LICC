@@ -1,4 +1,4 @@
-﻿using LICC.Internal.LSF.Parsing.Data;
+using LICC.Internal.LSF.Parsing.Data;
 
 namespace LICC.Internal.LSF.Runtime.Data
 {

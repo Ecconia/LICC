@@ -1,4 +1,4 @@
-﻿
+
 /* Unmerged change from project 'LICC (net461)'
 Before:
 using System.Reflection;

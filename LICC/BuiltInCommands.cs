@@ -1,4 +1,4 @@
-﻿using LICC.Internal;
+using LICC.Internal;
 using System;
 using System.Collections.Generic;
 using System.IO;

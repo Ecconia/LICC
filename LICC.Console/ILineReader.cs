@@ -1,4 +1,4 @@
-﻿namespace LICC.Console
+namespace LICC.Console
 {
     public interface ILineReader
     {

@@ -1,4 +1,4 @@
-﻿using LICC;
+using LICC;
 using LICC.Console;
 using System;
 

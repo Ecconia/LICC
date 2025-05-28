@@ -1,4 +1,4 @@
-﻿namespace LICC
+namespace LICC
 {
     /// <summary>
     /// Configures how the console and shell behave.

@@ -1,4 +1,4 @@
-﻿using LICC.API;
+using LICC.API;
 using LICC.Internal;
 using Moq;
 using NUnit.Framework;

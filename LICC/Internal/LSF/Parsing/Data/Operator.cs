@@ -1,4 +1,4 @@
-﻿namespace LICC.Internal.LSF.Parsing.Data
+namespace LICC.Internal.LSF.Parsing.Data
 {
     internal enum Operator
     {

@@ -1,4 +1,4 @@
-﻿using LICC.Internal.LSF.Runtime.Data;
+using LICC.Internal.LSF.Runtime.Data;
 using System.Collections.Generic;
 
 namespace LICC.Internal.LSF.Runtime

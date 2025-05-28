@@ -1,4 +1,4 @@
-﻿using LICC.API;
+using LICC.API;
 using LICC.Internal.LSF.Parsing.Data;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,4 @@
-﻿using LICC.API;
+using LICC.API;
 using System;
 using System.Diagnostics;
 using System.Linq;
