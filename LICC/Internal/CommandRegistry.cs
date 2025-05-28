@@ -104,7 +104,7 @@ namespace LICC.Internal
             var command = new Command(commandName, attribute.Description, method, attribute.ProviderType, attribute.Hidden);
 
             if (
-                registryEntry.Commands.Any(o 
+                registryEntry.Commands.Any(o
                     => o.RequiredParamCount == command.RequiredParamCount
                     && o.OptionalParamCount == command.OptionalParamCount)
                 )

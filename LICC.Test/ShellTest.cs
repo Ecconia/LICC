@@ -24,7 +24,7 @@ namespace LICC.Test
             return registryMock.Object;
         }
 
-        
+
         [OneTimeSetUp]
         public static void Setup()
         {

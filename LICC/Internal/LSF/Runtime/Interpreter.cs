@@ -523,9 +523,9 @@ namespace LICC.Internal.LSF.Runtime
                     else
                     {
                         return VisitVariableAssignment(
-                           new VariableAssignmentExpression(var.VariableName,
-                           new BinaryOperatorExpression(var,
-                           new NumberLiteralExpression(expr.Operator == Operator.IncrementByOne ? 1 : -1), Operator.Add), null));
+                            new VariableAssignmentExpression(var.VariableName,
+                            new BinaryOperatorExpression(var,
+                            new NumberLiteralExpression(expr.Operator == Operator.IncrementByOne ? 1 : -1), Operator.Add), null));
                     }
             }
 
