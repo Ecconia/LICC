@@ -1,0 +1,21 @@
+root = true
+
+# Things every text-based file type should follow:
+[*]
+charset = utf-8
+insert_final_newline = true
+end_of_line = lf
+
+# The following properties could be subject to certain file types:
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# Some file types in this project use different indentation styles:
+[*.{csproj,yml}]
+indent_size = 2
+[Directory.Build.props]
+indent_size = 2
+[*.sln]
+indent_style = tab
+indent_size = unset
